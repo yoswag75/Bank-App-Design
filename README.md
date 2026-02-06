@@ -53,15 +53,3 @@ The design file includes high-fidelity mockups for the following key user flows:
 You can view the full interactive prototype and inspect the design elements directly in Figma.
 
 ### [🚀 Click Here to Open Figma File](https://www.figma.com/design/lkRsBDrBfk9SJHpGEYgXX7/Bank-App?node-id=0-1&t=CAyYg3UneVddftEW-1)
-
-> **Note:** If the link above does not work, please copy and paste the URL provided in the repository description.
-
----
-
-## 📂 Project Preview
-
-*(You can upload screenshots of your designs here to make the README attractive)*
-
-| Login Screen | Home Dashboard | Money Transfer |
-| --- | --- | --- |
-|  |  |  |
